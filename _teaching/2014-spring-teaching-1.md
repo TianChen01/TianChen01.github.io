@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Mathematical Modeling in Political Science	"
 collection: teaching
-type: "Undergraduate course"
+type: "PhD course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department of Political Science, Washington University in St.Louis"
+date: 2023 Spring
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I led the discussion section for a first-year PhD course in mathematics, where students learned fundamental mathematical concepts for political science research, including linear algebra, calculus, and optimization methods.
 
 Heading 1
 ======
