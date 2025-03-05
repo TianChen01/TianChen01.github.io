@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Quantitative Political Methodology"
 collection: teaching
-type: "Workshop"
+type: "TA"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Department of Political Science, Washington University in St. Louis"
+date: 2024 Spring
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+An undergraduate course on basic statistics and econometric methods for political science students. I led the discussion session, where I taught the application of these methods using R.
 
 Heading 1
 ======
