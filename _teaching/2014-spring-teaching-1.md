@@ -1,7 +1,7 @@
 ---
 title: "Mathematical Modeling in Political Science	"
 collection: teaching
-type: "PhD course"
+type: "PhD course TA"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Political Science, Washington University in St.Louis"
 date: 2023 Spring
