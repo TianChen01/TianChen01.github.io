@@ -1,7 +1,7 @@
 ---
 title: "Quantitative Political Methodology"
 collection: teaching
-type: "Undergraduate Course"
+type: "Undergraduate Course TA"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Department of Political Science, Washington University in St. Louis"
 date: 2024 Spring
